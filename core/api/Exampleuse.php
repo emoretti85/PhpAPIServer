@@ -85,6 +85,19 @@ As regards your API, you are free to use other formats, if appropriate. <br/> </
 </pre>
 <br/>5-Add your fantasy in every method! :)
 
+
+<h2>How use a database in your API</h2>
+<p>
+<img src="img/flag-it.gif" width="32" height="21"/>
+All'interno delle vostre API, potrete usifruire dell'istanza della classe "database".<br/>
+La classe database.php non è mia, ma un wrapper PDO scaricabile al link: <b>http://www.imavex.com/php-pdo-wrapper-class/</b> Qui troverete anche un ampia documentazione per l'uso.
+<br/><br/>
+<img src="img/icon_flag_us_en.gif" width="32" height="21"/>
+Inside of your API, you can usifruire the instance of the class 'database'. <br/>
+The class database.php is not mine, but a wrapper PDO can be downloaded at the link: <b>http://www.imavex.com/php-pdo-wrapper-class/</b> Here you will also find an extensive documentation for the use.
+</p>
+<br/>	
+
 <h2>Describe server tool</h2>
 <img src="img/flag-it.gif" width="32" height="21"/>
 
